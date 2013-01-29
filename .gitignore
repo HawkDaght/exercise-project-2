@@ -1,0 +1,7 @@
+library
+temp
+builds
+*.csproj
+*.pidb
+*.sin
+ProjectSettings/TimeManager.asset
