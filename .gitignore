@@ -1,0 +1,6 @@
+library
+temp
+builds
+*.csproj
+*.pidb
+*.sin
